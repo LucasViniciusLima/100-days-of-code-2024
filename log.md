@@ -29,9 +29,19 @@
 **Link(s) to work**: [SpaceShipOne](https://github.com/LucasViniciusLima/space-ship-one)
 
 ### Day 3: July 21, 2024
-##### ()
+##### (just a little minutes)
 
 **Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [SpaceShipOne](https://github.com/LucasViniciusLima/space-ship-one)
+
+### Day 4: July 22, 2024
+##### (made on the last minutes of the day, but completly)
+
+**Today's Progress**: Include status of player on screen, phase, deaths counting, and also implement a new class PhasesController who does the administration of
+the phases status as velocity of respaw and velocity of enemys movements.
 
 **Thoughts**: 
 
