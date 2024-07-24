@@ -46,3 +46,12 @@ the phases status as velocity of respaw and velocity of enemys movements.
 **Thoughts**: 
 
 **Link(s) to work**: [SpaceShipOne](https://github.com/LucasViniciusLima/space-ship-one)
+
+### Day 5: July 23, 2024
+##### (all ok)
+
+**Today's Progress**: Include the skin of the special bomb
+
+**Thoughts**: nothing...
+
+**Link(s) to work**: [SpaceShipOne](https://github.com/LucasViniciusLima/space-ship-one)
