@@ -55,3 +55,21 @@ the phases status as velocity of respaw and velocity of enemys movements.
 **Thoughts**: nothing...
 
 **Link(s) to work**: [SpaceShipOne](https://github.com/LucasViniciusLima/space-ship-one)
+
+### Day 6: July 24, 2024
+##### (all ok)
+
+**Today's Progress**: Delimited limits from the player, enable developing mode
+
+**Thoughts**: nothing...
+
+**Link(s) to work**: [SpaceShipOne](https://github.com/LucasViniciusLima/space-ship-one)
+
+### Day 7: July 25, 2024
+##### (all ok)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [SpaceShipOne](https://github.com/LucasViniciusLima/space-ship-one)
