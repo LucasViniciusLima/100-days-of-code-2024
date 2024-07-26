@@ -68,8 +68,9 @@ the phases status as velocity of respaw and velocity of enemys movements.
 ### Day 7: July 25, 2024
 ##### (all ok)
 
-**Today's Progress**: 
+**Today's Progress**: Study about the roblox studio and view some code in Lua language scripts files, run the vm to execute the studio because
+they don't have support for linux, only windos, so i need to use a vm.
 
-**Thoughts**: 
+**Thoughts**: Need to find a whay to run the roblox studio with more performance
 
-**Link(s) to work**: [SpaceShipOne](https://github.com/LucasViniciusLima/space-ship-one)
+**Link(s) to work**: [Documentation of Roblox Studio an creation](https://create.roblox.com/docs/tutorials/curriculum-overview)
